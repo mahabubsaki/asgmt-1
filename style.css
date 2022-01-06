@@ -1,0 +1,120 @@
+body {
+    margin: 0;
+    background-color: #E1E1E1;
+    padding: 0px 15px;
+    font-family: cursive;
+}
+.body-part {
+   padding-top: 15px;
+   background-color: rgb(243, 221, 221);
+}
+.flexible {
+    display: flex;
+    width: 100%;
+}
+.first-part {
+    width: 50%;
+}
+#img {
+    border-radius: 50%;
+    height: 100%;
+    width: 80%;
+}
+.first-part-content {
+    padding-left: 35px;
+}
+#first-h1{
+    font-size: 200%;
+    border-left: 3px solid orangered;
+    padding: 0px 0px 0px 10px;
+    border-radius: 3px;
+    font-weight: 900;
+}
+.btn{
+    background-color: #FF5959;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 18px;
+    font-family: cursive;
+}
+.form-second-h1 {
+    font-size: 200%;
+    text-align: center;
+}
+.second-flex-img {
+    height: 100px;
+    width: 100px;
+}
+#second-flex-1 {
+    width: 28%;
+    margin-left: 35px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: #abe9f1;
+    border: 1px none;
+}
+#second-flex-2 {
+    width: 28%;
+    margin-left: 35px;
+    border: 1px none;
+    border-radius: 5px;
+    background-color: #eed297;
+}
+#second-flex-3{
+    width: 28%;
+    margin-left: 35px;
+    border: 1px solid black;
+    border-radius: 7px;
+    background-color: #d0fc80;
+    border: 1px none;
+}
+.felx-p-h1 {
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: justify;
+}
+.third-fourth-img{
+    height: 290px;
+    width: 290px;
+    margin-right: 20px;
+}
+#third-img{
+    padding-left: 35px;
+}
+.third-left{
+    width: 35%;
+}
+.third-right{
+    width: 55%;
+}
+#fourth-left {
+    padding-left: 30px;
+}
+#form-left {
+    width: 50%;
+}
+#form-right {
+    width: 50%;
+}
+.form-content {
+    text-align: center;
+}
+.form {
+    width: 50%;
+    height: 30px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    margin-left: 110px;
+}
+#right-form-content {
+    padding-top: 20px;
+}
+#footer {
+    background-color: #0B0D17;
+    border-radius: 5px;
+}
+.footer-h1-p {
+    text-align: center;
+    color: white;
+}
